@@ -1,6 +1,6 @@
 # Group-70
 This repository is an analysis of fire incidents, car crashes, and arrests in the city of Pittsburgh.
-* Sean Lord: sean.lord@pitt.edu - Individual notebook sal244-final.ipynb
+* Sean Lord: sal244@pitt.edu - Individual notebook sal244-final.ipynb
 * Alex Zhou: YUZ210@pitt.edu - Individual notebook yuz210-Final.ipynb
 * Dominic Miller: drm131@pitt.edu - Individual notebook drm131-final.ipynb
 
